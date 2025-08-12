@@ -26,10 +26,19 @@ Pipeline automatizado para extraer datos de sismos desde la API de USGS, transfo
 ---
 
 ### 3. [⚽ Consulta de Partidos de Fútbol con GenAI + RAG](https://github.com/fernando-pedernera/genai-rag-project-futbol)  
-Aplicación conversacional que responde consultas en lenguaje natural sobre partidos de fútbol en más de 20 ligas internacionales, usando GenAI y RAG.  
+Aplicación conversacional que responde consultas en lenguaje natural sobre partidos de fútbol del día de las ligas y copas más importantes, usando GenAI y RAG.  
 **Tecnologías:** Python, FastAPI, LangChain, OpenAI GPT, Streamlit, Docker.
 
+
 ---
+
+### 4. [📊 Machine Learning Notebooks](https://github.com/fernando-pedernera/machine-learning-notebooks)  
+Colección de notebooks de Machine Learning con foco en Deep Learning, que incluye:  
+- Teoría resumida con referencias  
+- Ejemplos prácticos con visualizaciones  
+- Ejercicios aplicados con datasets reales  
+**Contenido actual:** Material completo sobre Deep Learning  
+**Tecnologías:** Python, TensorFlow/PyTorch, Jupyter Notebook  
 
 ## 🛠️ Tecnologías y Herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
