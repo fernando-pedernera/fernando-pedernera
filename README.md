@@ -55,7 +55,7 @@ Colección de notebooks de Machine Learning con foco en Deep Learning, que inclu
 ---
 
 ## 📬 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fernando-pedernera-blue?logo=linkedin)](https://www.linkedin.com/in/fgpedernera/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Pedernera-blue?logo=linkedin)](https://www.linkedin.com/in/fernando-pedernera/)
 📧 fernando.peder.ia@gmail.com  
 
 ---
