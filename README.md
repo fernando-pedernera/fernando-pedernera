@@ -38,7 +38,18 @@ Colección de notebooks de Machine Learning con foco en Deep Learning, que inclu
 - Ejemplos prácticos con visualizaciones  
 - Ejercicios aplicados con datasets reales  
 **Contenido actual:** Material completo sobre Deep Learning  
-**Tecnologías:** Python, TensorFlow/PyTorch, Jupyter Notebook  
+**Tecnologías:** Python, TensorFlow/PyTorch, Jupyter Notebook
+
+
+---
+
+### 5. [📈 Telco Churn DB](https://github.com/fernando-pedernera/telco-churn-database)
+
+Repositorio para el modelado, carga y análisis del dataset de **Customer Churn en Telco**.  
+El dataset contiene información de una empresa de telecomunicaciones ficticia que brindó servicios a 7043 clientes en California durante un trimestre. Incluye datos demográficos, servicios contratados, puntaje de satisfacción, churn score y CLTV.  
+**Tecnologías:** PostgreSQL  
+
+---
 
 ## 🛠️ Tecnologías y Herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -51,6 +62,7 @@ Colección de notebooks de Machine Learning con foco en Deep Learning, que inclu
 ![LangChain](https://img.shields.io/badge/LangChain-1E88E5?logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 
 ---
 
