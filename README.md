@@ -29,24 +29,16 @@ Pipeline automatizado para extraer datos de sismos desde la API de USGS, transfo
 Aplicación conversacional que responde consultas en lenguaje natural sobre partidos de fútbol del día de las ligas y copas más importantes, usando GenAI y RAG.  
 **Tecnologías:** Python, FastAPI, LangChain, OpenAI GPT, Streamlit, Docker.
 
-
 ---
 
 ### 4. [📊 Machine Learning Notebooks](https://github.com/fernando-pedernera/machine-learning-notebooks)  
-Colección de notebooks de Machine Learning con foco en Deep Learning, que incluye:  
-- Teoría resumida con referencias  
-- Ejemplos prácticos con visualizaciones  
-- Ejercicios aplicados con datasets reales  
-**Contenido actual:** Material completo sobre Deep Learning  
+Colección de notebooks de Machine Learning con foco en Deep Learning.  
 **Tecnologías:** Python, TensorFlow/PyTorch, Jupyter Notebook
-
 
 ---
 
 ### 5. [📈 Telco Churn DB](https://github.com/fernando-pedernera/telco-churn-database)
-
-Repositorio para el modelado, carga y análisis del dataset de **Customer Churn en Telco**.  
-El dataset contiene información de una empresa de telecomunicaciones ficticia que brindó servicios a 7043 clientes en California durante un trimestre. Incluye datos demográficos, servicios contratados, puntaje de satisfacción, churn score y CLTV.  
+Modelado y análisis de Customer Churn para una empresa de telecomunicaciones.  
 **Tecnologías:** PostgreSQL  
 
 ---
@@ -61,20 +53,24 @@ El dataset contiene información de una empresa de telecomunicaciones ficticia q
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1E88E5?logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 
-## 🎓 Formación Continua y Certificaciones
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Expediente_Académico-00a4ef?style=flat&logo=microsoft)](https://learn.microsoft.com/es-es/users/fernandopedernera-4855/transcript/73kn2h22mjk4x2w)
+---
 
-Cuento con más de **100 horas de formación técnica** validadas en la plataforma Microsoft Learn, enfocadas principalmente en soluciones de datos, nube y desarrollo.
+## 🎓 Formación y Certificaciones
+Cuento con más de **100 horas de formación técnica** validadas en la plataforma oficial de Microsoft.
+
+👉 **[Haz clic aquí para ver mi Expediente Académico en Microsoft Learn](https://learn.microsoft.com/es-es/users/fernandopedernera-4855/transcript/73kn2h22mjk4x2w)** *(Incluye certificaciones y módulos completados en Azure, Datos e IA)*
 
 ---
 
-## 📬 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Pedernera-blue?logo=linkedin)](https://www.linkedin.com/in/fernando-pedernera/)
-📧 fernando.peder.ia@gmail.com  
+## 📬 Hablemos
+Si te interesa mi perfil o quieres colaborar en un proyecto, puedes contactarme aquí:
+
+* 🌐 **LinkedIn:** [Ver perfil profesional y conectar aquí](https://www.linkedin.com/in/fernando-pedernera/) — *Haz clic para visitar mi red*
+* 📧 **Email:** [fernando.peder.ia@gmail.com](mailto:fernando.peder.ia@gmail.com)
+* 📍 **Ubicación:** Córdoba, Argentina
 
 ---
 
-💡 *Este perfil se actualiza constantemente con nuevos proyectos en ingeniería de datos, análisis y machine learning.*
+💡 *Este perfil se actualiza constantemente con nuevos proyectos en ingeniería de datos y machine learning.*
