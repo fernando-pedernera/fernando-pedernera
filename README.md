@@ -64,6 +64,11 @@ El dataset contiene información de una empresa de telecomunicaciones ficticia q
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 
+## 🎓 Formación Continua y Certificaciones
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Expediente_Académico-00a4ef?style=flat&logo=microsoft)](https://learn.microsoft.com/es-es/users/fernandopedernera-4855/transcript/73kn2h22mjk4x2w)
+
+Cuento con más de **100 horas de formación técnica** validadas en la plataforma Microsoft Learn, enfocadas principalmente en soluciones de datos, nube y desarrollo.
+
 ---
 
 ## 📬 Contacto
