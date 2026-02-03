@@ -45,7 +45,9 @@ Modelado y análisis de Customer Churn para una empresa de telecomunicaciones.
 
 ---
 
-## 🏆 Dashboards del Campeonato Mundial de Power BI  (03/02/2026)
+---
+
+## 🏆 Dashboards del Campeonato Mundial de Power BI
 
 Participé en el **Power BI Data Visualization World Champs**, diseñando dashboards competitivos con foco en **claridad visual, modelado DAX avanzado y narrativa accesible**.  
 Cada ronda representó un desafío distinto en storytelling y diseño de datos.
@@ -69,6 +71,22 @@ Cada ronda representó un desafío distinto en storytelling y diseño de datos.
 **Tema:** Señales globales del cambio climático.  
 **Datos clave:** anomalías de temperatura, emisiones de CO₂ per cápita y aumento del nivel del mar.  
 **Objetivo:** mostrar cómo los drivers (emisiones) se relacionan con señales (temperatura) e impactos (nivel del mar).
+
+---
+
+### 📊 Ronda 3 — A Century of Olympic History (1896–2022)  
+🔗 [Blog oficial de la competencia](https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/Power-BI-Data-Visualization-World-Champs-Round-3-is-LIVE/ba-p/4927173)  
+🔗 [Ver Dashboard Interactivo](https://app.powerbi.com/view?r=eyJrIjoiN2IzYTUyZDItNGRmNy00MDNjLWI0ZjctNjA4YmQwYWM1MjU5IiwidCI6ImFlYzc2MmU0LTNkNTQtNDk1ZS1hOGZlLTQyODdkY2U2ZmU2OSIsImMiOjh9&pageName=f8c9b078e44b1cd6d7dc)  
+
+**Tema:** Más de un siglo de historia olímpica.  
+**Datos clave:** medallas, atletas, países, representación de género y evolución de disciplinas (1896–2022).  
+**Objetivo:** contar historias sobre desempeño nacional, atletas destacados y tendencias olímpicas.
+
+---
+
+## 📅 Última Actualización
+**Febrero 2026** — Se incorporaron los dashboards de las **Rondas 1, 2 y 3 del Campeonato Mundial de Power BI**, reflejando el trabajo en modelado DAX, diseño visual y storytelling de datos.
+
 
 
 
