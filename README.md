@@ -41,6 +41,40 @@ Colección de notebooks de Machine Learning con foco en Deep Learning.
 Modelado y análisis de Customer Churn para una empresa de telecomunicaciones.  
 **Tecnologías:** PostgreSQL  
 
+
+
+---
+
+## 🏆 Dashboards del Campeonato Mundial de Power BI  (03/02/2026)
+
+Participé en el **Power BI Data Visualization World Champs**, diseñando dashboards competitivos con foco en **claridad visual, modelado DAX avanzado y narrativa accesible**.  
+Cada ronda representó un desafío distinto en storytelling y diseño de datos.
+
+---
+
+### 📊 Ronda 1 — City Livability Trends (Briarport y Ciudades Pares)  
+🔗 [Blog oficial de la competencia](https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/Power-BI-Data-Visualization-World-Champs-Round-1-is-LIVE/ba-p/4916273)  
+🔗 [Ver Dashboard Interactivo](https://app.powerbi.com/view?r=eyJrIjoiMGY1NDIyY2YtNjhlOC00MzUxLThiMTMtYTUwODcxNDE4NTNkIiwidCI6ImFlYzc2MmU0LTNkNTQtNDk1ZS1hOGZlLTQyODdkY2U2ZmU2OSIsImMiOjh9&embedImagePlaceholder=true)  
+
+**Tema:** Habitabilidad urbana en Briarport y 11 ciudades pares.  
+**Datos clave:** vivienda, transporte, espacios verdes, emisiones y un índice compuesto de habitabilidad (2015–2024).  
+**Objetivo:** comparar Briarport con otras ciudades y generar insights para planificación urbana.
+
+---
+
+### 📊 Ronda 2 — Climate Change Indicators (Global Drivers & Impacts)  
+🔗 [Blog oficial de la competencia](https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/Power-BI-Data-Visualization-World-Champs-Round-2-is-LIVE/ba-p/4920346)  
+🔗 [Ver Dashboard Interactivo](https://app.powerbi.com/view?r=eyJrIjoiNTdkZjA5ZDItOTI4Mi00YWFjLWI4M2ItMjhjNGQ4MmIwM2E0IiwidCI6ImFlYzc2MmU0LTNkNTQtNDk1ZS1hOGZlLTQyODdkY2U2ZmU2OSIsImMiOjh9)  
+
+**Tema:** Señales globales del cambio climático.  
+**Datos clave:** anomalías de temperatura, emisiones de CO₂ per cápita y aumento del nivel del mar.  
+**Objetivo:** mostrar cómo los drivers (emisiones) se relacionan con señales (temperatura) e impactos (nivel del mar).
+
+
+
+
+
+
 ---
 
 ## 🛠️ Tecnologías y Herramientas
